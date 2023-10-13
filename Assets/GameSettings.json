@@ -1,0 +1,10 @@
+{
+	"GameTime" : "60,0",
+	"MovmentSpeed" : "0,05",
+	"ShootTimer" : "0,75",
+	"CollectionTimer" : "0,75",
+	"HpSmallEnemy" : "2",
+	"HpBigEnemy" : "3",
+	"SpawnChanceOfGoodToBad" : "40,0",
+	"SpawnChanceOfBigBad" : "25,0"
+}

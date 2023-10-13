@@ -1,0 +1,249 @@
+{
+    "categories": [
+        {
+            "name": "Przyciski",
+            "variables": [
+                {
+                    "name": "Czerwony",
+                    "values": [
+                        {
+                            "text": "Strzał",
+                            "css": "",
+                            "lang": "pl"
+                        },
+                        {
+                            "text": "Shot",
+                            "css": "",
+                            "lang": "en"
+                        }
+                    ]
+                },
+                {
+                    "name": "Zielony",
+                    "values": [
+                        {
+                            "text": "Złap",
+                            "css": "",
+                            "lang": "pl"
+                        },
+                        {
+                            "text": "Catch",
+                            "css": "",
+                            "lang": "en"
+                        }
+                    ]
+                },
+                {
+                    "name": "Korbka",
+                    "values": [
+                        {
+                            "text": "Ruch lewo-prawo",
+                            "css": "",
+                            "lang": "pl"
+                        },
+                        {
+                            "text": "Left-right movement",
+                            "css": "",
+                            "lang": "en"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Strona1",
+            "variables": [
+                {
+                    "name": "Nagłówek",
+                    "values": [
+                        {
+                            "text": "Instrukcja obsługi",
+                            "css": "",
+                            "lang": "pl"
+                        },
+                        {
+                            "text": "Manual",
+                            "css": "",
+                            "lang": "en"
+                        }
+                    ]
+                },
+                {
+                    "name": "Start",
+                    "values": [
+                        {
+                            "text": "START GRY – WCIŚNIJ PRZYCISK",
+                            "css": "",
+                            "lang": "pl"
+                        },
+                        {
+                            "text": "GAME START - PRESS THE BUTTON",
+                            "css": "",
+                            "lang": "en"
+                        }
+                    ]
+                },
+                {
+                    "name": "SampleText",
+                    "values": [
+                        {
+                            "text": "Jestem przygkladowym tekstem tlumaczonym :)",
+                            "css": "",
+                            "lang": "pl"
+                        },
+                        {
+                            "text": "I'm sample translation text :)",
+                            "css": "",
+                            "lang": "en"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tekst2",
+                    "values": [
+                        {
+                            "text": "Twoim zadaniem jest pozbyć się złych bakterii (czerwonych) i złapać dobre (zielone).",
+                            "css": "",
+                            "lang": "pl"
+                        },
+                        {
+                            "text": "<br>Get rid of the bad bacteria (red) and catch the good ones (green).",
+                            "css": "",
+                            "lang": "en"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tekst3",
+                    "values": [
+                        {
+                            "text": "Czerwonym przyciskiem możesz strzelać do bakterii, a zielonym je łapać.",
+                            "css": "",
+                            "lang": "pl"
+                        },
+                        {
+                            "text": "<br><br>With the red button you can shoot bacteria, and with the green button you can catch them.",
+                            "css": "",
+                            "lang": "en"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tekst4",
+                    "values": [
+                        {
+                            "text": "Sprawdź, jaki wyniki udało Ci się osiągnąć.",
+                            "css": "",
+                            "lang": "pl"
+                        },
+                        {
+                            "text": "Check what results you have achieved.",
+                            "css": "",
+                            "lang": "en"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Wynik",
+            "variables": [
+                {
+                    "name": "Czas",
+                    "values": [
+                        {
+                            "text": "Czas",
+                            "css": "",
+                            "lang": "pl"
+                        },
+                        {
+                            "text": "Time",
+                            "css": "",
+                            "lang": "en"
+                        }
+                    ]
+                },
+                {
+                    "name": "Punkty",
+                    "values": [
+                        {
+                            "text": "Punkty",
+                            "css": "",
+                            "lang": "pl"
+                        },
+                        {
+                            "text": "Points",
+                            "css": "",
+                            "lang": "en"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Strona3",
+            "variables": [
+                {
+                    "name": "Nagłówek",
+                    "values": [
+                        {
+                            "text": "Gratulacje!",
+                            "css": "",
+                            "lang": "pl"
+                        },
+                        {
+                            "text": "Congratulations!",
+                            "css": "",
+                            "lang": "en"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tekst",
+                    "values": [
+                        {
+                            "text": "Nasz organizm to fascynujący ekosystem, w którym dobre i złe bakterie współistnieją, wpływając na nasze zdrowie i samopoczucie. Dbanie o równowagę tych mikroorganizmów jest kluczem do utrzymania zdrowego stylu życia.",
+                            "css": "",
+                            "lang": "pl"
+                        },
+                        {
+                            "text": "Our body is a fascinating ecosystem in which good and bad bacteria coexist, affecting our health and well-being. Taking care of the balance of these microorganisms is key to maintaining a healthy lifestyle.",
+                            "css": "",
+                            "lang": "en"
+                        }
+                    ]
+                },
+				 {
+                    "name": "NacisnijKoniec",
+                    "values": [
+                        {
+                            "text": "Rusz korbką aby restart",
+                            "css": "",
+                            "lang": "pl"
+                        },
+                        {
+                            "text": "test test test",
+                            "css": "",
+                            "lang": "en"
+                        }
+                    ]
+                },
+				 {
+                    "name": "NajlepszeWyniki",
+                    "values": [
+                        {
+                            "text": "Najlepsze wyniki",
+                            "css": "",
+                            "lang": "pl"
+                        },
+                        {
+                            "text": "Hight score",
+                            "css": "",
+                            "lang": "en"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
